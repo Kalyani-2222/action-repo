@@ -9,7 +9,7 @@ A web-based application that captures GitHub events via webhooks and displays th
 </head>
 <body>
     <h1>Latest GitHub Events</h1>
-    <ul id="eventList"></ul>
+    <ul id="eventList"></ul>    
 
     <script>
         function fetchEvents() {
