@@ -2,7 +2,7 @@ GitHub Webhook Activity Tracker
 A web-based application that captures GitHub events via webhooks and displays them live using MongoDB and Flask.
 
 
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html>
 <head>
     <title>GitHub Events</title>
